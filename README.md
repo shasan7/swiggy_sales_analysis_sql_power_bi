@@ -14,16 +14,16 @@ The query results were imported to Power BI for visualization, with help of SQL 
 
 ## Timeline-based Analysis:
 
-![Page 1: ](Images/Page 1.png)
+![Page 1: ](Images/Page_1.png)
 
 ## Location-based Analysis:
 
-![Page 2: ](Images/Page 2.png)
+![Page 2: ](Images/Page_2.png)
 
 ## Category-wise Analysis
 
-![Page 3: ](Images/Page 3.png)
+![Page 3: ](Images/Page_3.png)
 
 ## Miscellaneous
 
-![Page 4: ](Images/Page 4.png)
+![Page 4: ](Images/Page_4.png)
